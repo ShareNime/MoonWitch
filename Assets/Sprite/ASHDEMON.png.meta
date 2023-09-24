@@ -1,0 +1,5736 @@
+fileFormatVersion: 2
+guid: eedd92df15007bb40a3d6b2b11ffa7a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3158836230250725014
+    second: ASHDEMON_0
+  - first:
+      213: -4535685402998494737
+    second: ASHDEMON_1
+  - first:
+      213: -6346597028515853470
+    second: ASHDEMON_2
+  - first:
+      213: -8742144388627957051
+    second: ASHDEMON_3
+  - first:
+      213: 654468399500968443
+    second: ASHDEMON_4
+  - first:
+      213: 5914429220065459723
+    second: ASHDEMON_5
+  - first:
+      213: 5377087778575829854
+    second: ASHDEMON_6
+  - first:
+      213: 3111615926767508165
+    second: ASHDEMON_7
+  - first:
+      213: -5710409468290622066
+    second: ASHDEMON_8
+  - first:
+      213: 3510654060314325545
+    second: ASHDEMON_9
+  - first:
+      213: 8599327494428876788
+    second: ASHDEMON_10
+  - first:
+      213: -8608193415799000991
+    second: ASHDEMON_11
+  - first:
+      213: 6054494693625794686
+    second: ASHDEMON_12
+  - first:
+      213: -8304147785865132945
+    second: ASHDEMON_13
+  - first:
+      213: 7231418089880609257
+    second: ASHDEMON_14
+  - first:
+      213: -2309837465222950963
+    second: ASHDEMON_15
+  - first:
+      213: -601288644505802956
+    second: ASHDEMON_16
+  - first:
+      213: -2267104103249100026
+    second: ASHDEMON_17
+  - first:
+      213: 735346112745828
+    second: ASHDEMON_18
+  - first:
+      213: 4437968370286595050
+    second: ASHDEMON_19
+  - first:
+      213: 8263373495036239610
+    second: ASHDEMON_20
+  - first:
+      213: -7948150310613588238
+    second: ASHDEMON_21
+  - first:
+      213: -157499060849066603
+    second: ASHDEMON_22
+  - first:
+      213: -1612036140889652692
+    second: ASHDEMON_23
+  - first:
+      213: 363598697253555688
+    second: ASHDEMON_24
+  - first:
+      213: -8633983747524603147
+    second: ASHDEMON_25
+  - first:
+      213: -6115533303929215973
+    second: ASHDEMON_26
+  - first:
+      213: 4512813698915343528
+    second: ASHDEMON_27
+  - first:
+      213: 8408336405815126954
+    second: ASHDEMON_28
+  - first:
+      213: -3600561127549632336
+    second: ASHDEMON_29
+  - first:
+      213: -892263577956726118
+    second: ASHDEMON_30
+  - first:
+      213: -7511285865535937149
+    second: ASHDEMON_31
+  - first:
+      213: 5967072885394842058
+    second: ASHDEMON_32
+  - first:
+      213: -37321114668342374
+    second: ASHDEMON_33
+  - first:
+      213: -8016579435102489975
+    second: ASHDEMON_34
+  - first:
+      213: 1557943806211280932
+    second: ASHDEMON_35
+  - first:
+      213: 8942803549826727815
+    second: ASHDEMON_36
+  - first:
+      213: -3281513885792141220
+    second: ASHDEMON_37
+  - first:
+      213: -7204995283823366698
+    second: ASHDEMON_38
+  - first:
+      213: 8378758721958931320
+    second: ASHDEMON_39
+  - first:
+      213: -2141575613502163058
+    second: ASHDEMON_40
+  - first:
+      213: 1588200519754327625
+    second: ASHDEMON_41
+  - first:
+      213: 1421915167332415676
+    second: ASHDEMON_42
+  - first:
+      213: 8863470894775261296
+    second: ASHDEMON_43
+  - first:
+      213: 776296186526543674
+    second: ASHDEMON_44
+  - first:
+      213: -1514649967216872020
+    second: ASHDEMON_45
+  - first:
+      213: -5509885056723531704
+    second: ASHDEMON_46
+  - first:
+      213: -8847946670637766837
+    second: ASHDEMON_47
+  - first:
+      213: -7748926083500685448
+    second: ASHDEMON_48
+  - first:
+      213: 4166414602649833985
+    second: ASHDEMON_49
+  - first:
+      213: -2419721177988251227
+    second: ASHDEMON_50
+  - first:
+      213: -3797204632051191893
+    second: ASHDEMON_51
+  - first:
+      213: -4092846893170637634
+    second: ASHDEMON_52
+  - first:
+      213: 6249647198403175043
+    second: ASHDEMON_53
+  - first:
+      213: -1908448298212651881
+    second: ASHDEMON_54
+  - first:
+      213: -5216578521228567528
+    second: ASHDEMON_55
+  - first:
+      213: 4424621082860018986
+    second: ASHDEMON_56
+  - first:
+      213: 8831287510953818269
+    second: ASHDEMON_57
+  - first:
+      213: -4374596351013469384
+    second: ASHDEMON_58
+  - first:
+      213: -8372316979934732420
+    second: ASHDEMON_59
+  - first:
+      213: -5901059352711502710
+    second: ASHDEMON_60
+  - first:
+      213: -2891562505823740340
+    second: ASHDEMON_61
+  - first:
+      213: -4112892200334599074
+    second: ASHDEMON_62
+  - first:
+      213: 2841814184133872660
+    second: ASHDEMON_63
+  - first:
+      213: -3002599362985772497
+    second: ASHDEMON_64
+  - first:
+      213: 8589534540545392244
+    second: ASHDEMON_65
+  - first:
+      213: 2803626870694519590
+    second: ASHDEMON_66
+  - first:
+      213: 2804579400823164625
+    second: ASHDEMON_67
+  - first:
+      213: 7680212613466892143
+    second: ASHDEMON_68
+  - first:
+      213: 5241955194885277192
+    second: ASHDEMON_69
+  - first:
+      213: -197208426586643615
+    second: ASHDEMON_70
+  - first:
+      213: -8497784978292285775
+    second: ASHDEMON_71
+  - first:
+      213: 8428777634151150910
+    second: ASHDEMON_72
+  - first:
+      213: -7952456851157283534
+    second: ASHDEMON_73
+  - first:
+      213: 3016283813569289738
+    second: ASHDEMON_74
+  - first:
+      213: 5792874355359028515
+    second: ASHDEMON_75
+  - first:
+      213: 7176817208011389765
+    second: ASHDEMON_76
+  - first:
+      213: -9058331546251922153
+    second: ASHDEMON_77
+  - first:
+      213: 2887392081513741845
+    second: ASHDEMON_78
+  - first:
+      213: -2653296915632136379
+    second: ASHDEMON_79
+  - first:
+      213: -3316402575396193849
+    second: ASHDEMON_80
+  - first:
+      213: -1579595111874816896
+    second: ASHDEMON_81
+  - first:
+      213: 2452579070209199563
+    second: ASHDEMON_82
+  - first:
+      213: 3807070558631567076
+    second: ASHDEMON_83
+  - first:
+      213: -8070866035266253681
+    second: ASHDEMON_84
+  - first:
+      213: -8440792537169388050
+    second: ASHDEMON_85
+  - first:
+      213: 490034729245135841
+    second: ASHDEMON_86
+  - first:
+      213: 8247705706334979605
+    second: ASHDEMON_87
+  - first:
+      213: 710806583498111223
+    second: ASHDEMON_88
+  - first:
+      213: 5931447155520563579
+    second: ASHDEMON_89
+  - first:
+      213: -1551295983655897082
+    second: ASHDEMON_90
+  - first:
+      213: -6497588897890364059
+    second: ASHDEMON_91
+  - first:
+      213: -5640031615989222051
+    second: ASHDEMON_92
+  - first:
+      213: -2879505390973303253
+    second: ASHDEMON_93
+  - first:
+      213: -1985049283705135856
+    second: ASHDEMON_94
+  - first:
+      213: -4215732601126015827
+    second: ASHDEMON_95
+  - first:
+      213: 3768318154641872451
+    second: ASHDEMON_96
+  - first:
+      213: 1874565266268068570
+    second: ASHDEMON_97
+  - first:
+      213: -6409396167415214698
+    second: ASHDEMON_98
+  - first:
+      213: 4336611980066533429
+    second: ASHDEMON_99
+  - first:
+      213: -6527260077829898555
+    second: ASHDEMON_100
+  - first:
+      213: -8537939127597931843
+    second: ASHDEMON_101
+  - first:
+      213: -752979312220978660
+    second: ASHDEMON_102
+  - first:
+      213: 8364127687007185402
+    second: ASHDEMON_103
+  - first:
+      213: -2068746389701071751
+    second: ASHDEMON_104
+  - first:
+      213: -5372187776455293101
+    second: ASHDEMON_105
+  - first:
+      213: 60645480604609373
+    second: ASHDEMON_106
+  - first:
+      213: -408572102382283993
+    second: ASHDEMON_107
+  - first:
+      213: -7257101993002119957
+    second: ASHDEMON_108
+  - first:
+      213: -7286993794641166182
+    second: ASHDEMON_109
+  - first:
+      213: -7285319052506696526
+    second: ASHDEMON_110
+  - first:
+      213: -829880523388972172
+    second: ASHDEMON_111
+  - first:
+      213: -9136847157472038779
+    second: ASHDEMON_112
+  - first:
+      213: 6634419005468248781
+    second: ASHDEMON_113
+  - first:
+      213: 3551993092509766481
+    second: ASHDEMON_114
+  - first:
+      213: -2574539312377961939
+    second: ASHDEMON_115
+  - first:
+      213: -3591268911596400051
+    second: ASHDEMON_116
+  - first:
+      213: -8311828849388408636
+    second: ASHDEMON_117
+  - first:
+      213: 1935232374320115345
+    second: ASHDEMON_118
+  - first:
+      213: 7247166786885594234
+    second: ASHDEMON_119
+  - first:
+      213: -4916387155980760289
+    second: ASHDEMON_120
+  - first:
+      213: -4687412449158263493
+    second: ASHDEMON_121
+  - first:
+      213: 2544601310043145575
+    second: ASHDEMON_122
+  - first:
+      213: -2982564856255546792
+    second: ASHDEMON_123
+  - first:
+      213: 2623169226204327539
+    second: ASHDEMON_124
+  - first:
+      213: 2780045929581068890
+    second: ASHDEMON_125
+  - first:
+      213: 4459644674770826182
+    second: ASHDEMON_126
+  - first:
+      213: -4904990362667043906
+    second: ASHDEMON_127
+  - first:
+      213: 1963039904727802852
+    second: ASHDEMON_128
+  - first:
+      213: 8386236782601821328
+    second: ASHDEMON_129
+  - first:
+      213: -4163266879628482148
+    second: ASHDEMON_130
+  - first:
+      213: 2355307488882025108
+    second: ASHDEMON_131
+  - first:
+      213: -5506114012226471153
+    second: ASHDEMON_132
+  - first:
+      213: 2145209035900945731
+    second: ASHDEMON_133
+  - first:
+      213: 4129912614176502215
+    second: ASHDEMON_134
+  - first:
+      213: 6592351904123099746
+    second: ASHDEMON_135
+  - first:
+      213: -5335647490440647495
+    second: ASHDEMON_136
+  - first:
+      213: 4095544171889082730
+    second: ASHDEMON_137
+  - first:
+      213: -162371320247075338
+    second: ASHDEMON_138
+  - first:
+      213: -3052954175677770930
+    second: ASHDEMON_139
+  - first:
+      213: 2627277972325696651
+    second: ASHDEMON_140
+  - first:
+      213: -1393853333511653974
+    second: ASHDEMON_141
+  - first:
+      213: 5982594445707916112
+    second: ASHDEMON_142
+  - first:
+      213: 2023817806158335656
+    second: ASHDEMON_143
+  - first:
+      213: 4346476375289308884
+    second: ASHDEMON_144
+  - first:
+      213: 4782907049575159806
+    second: ASHDEMON_145
+  - first:
+      213: 5111839278574058610
+    second: ASHDEMON_146
+  - first:
+      213: -2859252350990503498
+    second: ASHDEMON_147
+  - first:
+      213: 9053683174510764296
+    second: ASHDEMON_148
+  - first:
+      213: 1817938872854831550
+    second: ASHDEMON_149
+  - first:
+      213: -8908596856462372654
+    second: ASHDEMON_150
+  - first:
+      213: -7728709850088672035
+    second: ASHDEMON_151
+  - first:
+      213: 3436740674424672421
+    second: ASHDEMON_152
+  - first:
+      213: 5148720060252444332
+    second: ASHDEMON_153
+  - first:
+      213: -9160432750816598151
+    second: ASHDEMON_154
+  - first:
+      213: -2392858084097613824
+    second: ASHDEMON_155
+  - first:
+      213: -4485404707444974319
+    second: ASHDEMON_156
+  - first:
+      213: -1946754660653540082
+    second: ASHDEMON_157
+  - first:
+      213: -3931223442652650966
+    second: ASHDEMON_158
+  - first:
+      213: -4339649439434139573
+    second: ASHDEMON_159
+  - first:
+      213: 827282218065928974
+    second: ASHDEMON_160
+  - first:
+      213: 7322509656965730808
+    second: ASHDEMON_161
+  - first:
+      213: -7600513383130553760
+    second: ASHDEMON_162
+  - first:
+      213: -2568539436389638374
+    second: ASHDEMON_163
+  - first:
+      213: -1698356658768827782
+    second: ASHDEMON_164
+  - first:
+      213: 8597987063200035481
+    second: ASHDEMON_165
+  - first:
+      213: 1608219883491046005
+    second: ASHDEMON_166
+  - first:
+      213: 1788315232931089155
+    second: ASHDEMON_167
+  - first:
+      213: 8723016764481383112
+    second: ASHDEMON_168
+  - first:
+      213: -2438733896740068100
+    second: ASHDEMON_169
+  - first:
+      213: 1751458106144779164
+    second: ASHDEMON_170
+  - first:
+      213: -787838923714426804
+    second: ASHDEMON_171
+  - first:
+      213: 6671985322141852941
+    second: ASHDEMON_172
+  - first:
+      213: 6026123674598903559
+    second: ASHDEMON_173
+  - first:
+      213: -3695382837059267558
+    second: ASHDEMON_174
+  - first:
+      213: -6428579382994536692
+    second: ASHDEMON_175
+  - first:
+      213: -4046280506934175596
+    second: ASHDEMON_176
+  - first:
+      213: -1044115510576893640
+    second: ASHDEMON_177
+  - first:
+      213: 8180740180969085215
+    second: ASHDEMON_178
+  - first:
+      213: -1610367156631587492
+    second: ASHDEMON_179
+  - first:
+      213: 3648981686489535258
+    second: ASHDEMON_180
+  - first:
+      213: 3626176561746366736
+    second: ASHDEMON_181
+  - first:
+      213: -7050539655247486529
+    second: ASHDEMON_182
+  - first:
+      213: -8689952307542491930
+    second: ASHDEMON_183
+  - first:
+      213: 7949280583454561592
+    second: ASHDEMON_184
+  - first:
+      213: 4811692893550914645
+    second: ASHDEMON_185
+  - first:
+      213: 1981467993422247168
+    second: ASHDEMON_186
+  - first:
+      213: 1793153865106437583
+    second: ASHDEMON_187
+  - first:
+      213: -2285828823004466638
+    second: ASHDEMON_188
+  - first:
+      213: -4515269105038060982
+    second: ASHDEMON_189
+  - first:
+      213: 8454128752632101732
+    second: ASHDEMON_190
+  - first:
+      213: 6970943862468182106
+    second: ASHDEMON_191
+  - first:
+      213: -3700308540656996214
+    second: ASHDEMON_192
+  - first:
+      213: -5039282778947670831
+    second: ASHDEMON_193
+  - first:
+      213: -5390079461604987683
+    second: ASHDEMON_194
+  - first:
+      213: 847580998845482433
+    second: ASHDEMON_195
+  - first:
+      213: 8219444379158038858
+    second: ASHDEMON_196
+  - first:
+      213: -7603818797825134125
+    second: ASHDEMON_197
+  - first:
+      213: 7654653277806506423
+    second: ASHDEMON_198
+  - first:
+      213: -1133890747941124872
+    second: ASHDEMON_199
+  - first:
+      213: -1954867022463974194
+    second: ASHDEMON_200
+  - first:
+      213: -6788123826957467890
+    second: ASHDEMON_201
+  - first:
+      213: -5622106803472144626
+    second: ASHDEMON_202
+  - first:
+      213: 6924089070107105815
+    second: ASHDEMON_203
+  - first:
+      213: -3954163416967660704
+    second: ASHDEMON_204
+  - first:
+      213: -421000845563685163
+    second: ASHDEMON_205
+  - first:
+      213: 3025224932946191253
+    second: ASHDEMON_206
+  - first:
+      213: -1431449810838024037
+    second: ASHDEMON_207
+  - first:
+      213: -8137039845598207656
+    second: ASHDEMON_208
+  - first:
+      213: -2003799962302693522
+    second: ASHDEMON_209
+  - first:
+      213: -4119378227572559242
+    second: ASHDEMON_210
+  - first:
+      213: -2504649590195636837
+    second: ASHDEMON_211
+  - first:
+      213: 5900946400461222833
+    second: ASHDEMON_212
+  - first:
+      213: -6288887531937376273
+    second: ASHDEMON_213
+  - first:
+      213: -7763594917484442544
+    second: ASHDEMON_214
+  - first:
+      213: -3867461721984924289
+    second: ASHDEMON_215
+  - first:
+      213: 4378955201022438092
+    second: ASHDEMON_216
+  - first:
+      213: 3595905473679630886
+    second: ASHDEMON_217
+  - first:
+      213: -8723333315733638396
+    second: ASHDEMON_218
+  - first:
+      213: 6449377623459146319
+    second: ASHDEMON_219
+  - first:
+      213: -3823760350360590496
+    second: ASHDEMON_220
+  - first:
+      213: 7341634725155096604
+    second: ASHDEMON_221
+  - first:
+      213: 1340585052700368648
+    second: ASHDEMON_222
+  - first:
+      213: -8346835159435275966
+    second: ASHDEMON_223
+  - first:
+      213: 1978669852032106048
+    second: ASHDEMON_224
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ASHDEMON_0
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 11936
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6185405f2f8924d0800000000000000
+      internalID: -3158836230250725014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_1
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 11930
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9a95538220e01c0800000000000000
+      internalID: -4535685402998494737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_2
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 11930
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b43c6d0ab5ce7a0800000000000000
+      internalID: -6346597028515853470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_3
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 11813
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf7a41ff9ada680800000000000000
+      internalID: -8742144388627957051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_4
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 9469
+        width: 2526
+        height: 2382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf149f4ba83251900800000000000000
+      internalID: 654468399500968443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_5
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 9853
+        width: 2102
+        height: 1998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e31372a06441250800000000000000
+      internalID: 5914429220065459723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_6
+      rect:
+        serializedVersion: 2
+        x: 7774
+        y: 9850
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b4b1878d04f9a40800000000000000
+      internalID: 5377087778575829854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_7
+      rect:
+        serializedVersion: 2
+        x: 7810
+        y: 9844
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cadc68033eae2b20800000000000000
+      internalID: 3111615926767508165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_8
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 7107
+        width: 4199
+        height: 2470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9288f7dc80c0b0800000000000000
+      internalID: -5710409468290622066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_9
+      rect:
+        serializedVersion: 2
+        x: 7757
+        y: 9551
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227152844958b030800000000000000
+      internalID: 3510654060314325545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_10
+      rect:
+        serializedVersion: 2
+        x: 7769
+        y: 9545
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffdea48bc2f65770800000000000000
+      internalID: 8599327494428876788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_11
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 7857
+        width: 2100
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160b17d42bd898880800000000000000
+      internalID: -8608193415799000991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_12
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 7462
+        width: 2103
+        height: 2004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e709d0488d2e50450800000000000000
+      internalID: 6054494693625794686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_13
+      rect:
+        serializedVersion: 2
+        x: 7763
+        y: 7271
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648925069db1cc80800000000000000
+      internalID: -8304147785865132945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_14
+      rect:
+        serializedVersion: 2
+        x: 7774
+        y: 7266
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1eaa560782b5460800000000000000
+      internalID: 7231418089880609257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_15
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 5189
+        width: 2102
+        height: 1997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf4f7c301fc1ffd0800000000000000
+      internalID: -2309837465222950963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_16
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 5189
+        width: 2103
+        height: 1997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43761c0e92bc7a7f0800000000000000
+      internalID: -601288644505802956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_17
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 4881
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c10964d0a980e0800000000000000
+      internalID: -2267104103249100026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_18
+      rect:
+        serializedVersion: 2
+        x: 5267
+        y: 4881
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46156db1bcc920000800000000000000
+      internalID: 735346112745828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_19
+      rect:
+        serializedVersion: 2
+        x: 7622
+        y: 4881
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb0a5b28b4d69d30800000000000000
+      internalID: 4437968370286595050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_20
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 4078
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe530a99666da270800000000000000
+      internalID: 8263373495036239610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_21
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 2499
+        width: 2103
+        height: 2001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f66772576f72b190800000000000000
+      internalID: -7948150310613588238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_22
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 4072
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d32a9407370ddf0800000000000000
+      internalID: -157499060849066603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_23
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 4055
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c224e29bba5e0a9e0800000000000000
+      internalID: -1612036140889652692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_24
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 4031
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edc796b613cb0500800000000000000
+      internalID: 363598697253555688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_25
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 4026
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2dc44c68ded2880800000000000000
+      internalID: -8633983747524603147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_26
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 3932
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b146a3f8cd2412ba0800000000000000
+      internalID: -6115533303929215973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_27
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 2499
+        width: 1707
+        height: 1474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac9d55362cb0ae30800000000000000
+      internalID: 4512813698915343528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_28
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 3889
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab689c696960b470800000000000000
+      internalID: 8408336405815126954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_29
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 3891
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b003582bbc380ec0800000000000000
+      internalID: -3600561127549632336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_30
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aced5d00b0e93f0800000000000000
+      internalID: -892263577956726118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_31
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2499
+        width: 1305
+        height: 1376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38561524d4d82c790800000000000000
+      internalID: -7511285865535937149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_32
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 3867
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac123d2ac2d4fc250800000000000000
+      internalID: 5967072885394842058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_33
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 3738
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a936299d4a86b7ff0800000000000000
+      internalID: -37321114668342374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_34
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 3703
+        width: 158
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982b3093a736fb090800000000000000
+      internalID: -8016579435102489975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3727
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205e3d23adee9510800000000000000
+      internalID: 1557943806211280932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_36
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 3715
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f368392783b1c70800000000000000
+      internalID: 8942803549826727815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_37
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 3721
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5009dfc188b572d0800000000000000
+      internalID: -3281513885792141220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_38
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 3721
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dde75b86f6b20c90800000000000000
+      internalID: -7204995283823366698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_39
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 3721
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b61114aa4574470800000000000000
+      internalID: 8378758721958931320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_40
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 3627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87709973589742e0800000000000000
+      internalID: -2141575613502163058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_41
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 3609
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9462c0445fb6a0610800000000000000
+      internalID: 1588200519754327625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_42
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 3536
+        width: 266
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8b691af48abb310800000000000000
+      internalID: 1421915167332415676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_43
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 3604
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078d71071df510b70800000000000000
+      internalID: 8863470894775261296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_44
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3604
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fa766c445f5ca00800000000000000
+      internalID: 776296186526543674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_45
+      rect:
+        serializedVersion: 2
+        x: 5273
+        y: 3543
+        width: 164
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca53bf831e1eafae0800000000000000
+      internalID: -1514649967216872020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_46
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 3598
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848c2c8cbb4f883b0800000000000000
+      internalID: -5509885056723531704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_47
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 3563
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b472909a167c53580800000000000000
+      internalID: -8847946670637766837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_48
+      rect:
+        serializedVersion: 2
+        x: 5203
+        y: 3586
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877ce2a58c8467490800000000000000
+      internalID: -7748926083500685448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_49
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 3586
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10291f9a10412d930800000000000000
+      internalID: 4166414602649833985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_50
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 3574
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1458aa86c6b6ed0800000000000000
+      internalID: -2419721177988251227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_51
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3563
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafee1f618e9d4bc0800000000000000
+      internalID: -3797204632051191893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_52
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 3555
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c08c7f694337c0800000000000000
+      internalID: -4092846893170637634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_53
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 3569
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822650d3053bb650800000000000000
+      internalID: 6249647198403175043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_54
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 3563
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c06d85264d385e0800000000000000
+      internalID: -1908448298212651881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_55
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 3557
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c1d3b397dfa97b0800000000000000
+      internalID: -5216578521228567528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_56
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3557
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d5395ae69676d30800000000000000
+      internalID: 4424621082860018986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_57
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 3545
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98feb773390f8a70800000000000000
+      internalID: 8831287510953818269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_58
+      rect:
+        serializedVersion: 2
+        x: 5238
+        y: 3557
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8334f1edbcf4a43c0800000000000000
+      internalID: -4374596351013469384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_59
+      rect:
+        serializedVersion: 2
+        x: 5197
+        y: 3545
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd400b01e8fcb80800000000000000
+      internalID: -8372316979934732420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_60
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3528
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84622ba8c93b1ea0800000000000000
+      internalID: -5901059352711502710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_61
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 3533
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e998a983b1fd7d0800000000000000
+      internalID: -2891562505823740340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_62
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 3527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cd497b5521ce6c0800000000000000
+      internalID: -4112892200334599074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_63
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 3522
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c47f2a1f6207720800000000000000
+      internalID: 2841814184133872660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_64
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 3516
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a3b6ea9cf9456d0800000000000000
+      internalID: -3002599362985772497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_65
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 3510
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef723c728243770800000000000000
+      internalID: 8589534540545392244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_66
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3486
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ac7ed8cb78e620800000000000000
+      internalID: 2803626870694519590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_67
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 3498
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de41721b1edbe620800000000000000
+      internalID: 2804579400823164625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_68
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 3480
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f672b213ea8959a60800000000000000
+      internalID: 7680212613466892143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_69
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 3463
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80686a70a7a2fb840800000000000000
+      internalID: 5241955194885277192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_70
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3457
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e69a1bff534df0800000000000000
+      internalID: -197208426586643615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_71
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 3463
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bedc3fd59dc11a80800000000000000
+      internalID: -8497784978292285775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_72
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 3463
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e353656c99809f470800000000000000
+      internalID: 8428777634151150910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_73
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 3451
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d0627b0a233a190800000000000000
+      internalID: -7952456851157283534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_74
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 3451
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ede81c52efbd920800000000000000
+      internalID: 3016283813569289738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_75
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 3440
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32515a3c88c646050800000000000000
+      internalID: 5792874355359028515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_76
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 3422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bfd6de93d299360800000000000000
+      internalID: 7176817208011389765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_77
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 3426
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71570f7a3775a4280800000000000000
+      internalID: -9058331546251922153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_78
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 3405
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef6e1dcc3121820800000000000000
+      internalID: 2887392081513741845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_79
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 3403
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f5b1453889d2bd0800000000000000
+      internalID: -2653296915632136379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_80
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 3363
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9b151cd65c9f1d0800000000000000
+      internalID: -3316402575396193849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_81
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 3387
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08412c36d96241ae0800000000000000
+      internalID: -1579595111874816896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_82
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 3352
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd80678baf490220800000000000000
+      internalID: 2452579070209199563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_83
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3305
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee151a908e65d430800000000000000
+      internalID: 3807070558631567076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_84
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3299
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c803a2a168eff80800000000000000
+      internalID: -8070866035266253681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_85
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3293
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed104f98e74cda80800000000000000
+      internalID: -8440792537169388050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_86
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 3252
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3d24c6df3fcc600800000000000000
+      internalID: 490034729245135841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_87
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 3252
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160f0644acb57270800000000000000
+      internalID: 8247705706334979605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_88
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 3229
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f96952da4dd900800000000000000
+      internalID: 710806583498111223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_89
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2607
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79edc403cbb05250800000000000000
+      internalID: 5931447155520563579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_90
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 2602
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60833b0a580b87ae0800000000000000
+      internalID: -1551295983655897082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_91
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 2607
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56519b4b25de3d5a0800000000000000
+      internalID: -6497588897890364059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_92
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2309
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557dfe90259ab1b0800000000000000
+      internalID: -5640031615989222051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_93
+      rect:
+        serializedVersion: 2
+        x: 5659
+        y: 2303
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26c63a6a11f908d0800000000000000
+      internalID: -2879505390973303253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_94
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2303
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d9c179130b374e0800000000000000
+      internalID: -1985049283705135856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_95
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 2303
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca9d10985be75c0800000000000000
+      internalID: -4215732601126015827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_96
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1939
+        width: 459
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34695107561cb4430800000000000000
+      internalID: 3768318154641872451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_97
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2016
+        width: 381
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada91348d2bc30a10800000000000000
+      internalID: 1874565266268068570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_98
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 2133
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d4778e4204d07a0800000000000000
+      internalID: -6409396167415214698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_99
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 2198
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b1989e9dbe2c30800000000000000
+      internalID: 4336611980066533429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_100
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 2192
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce3c58ca838a65a0800000000000000
+      internalID: -6527260077829898555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_101
+      rect:
+        serializedVersion: 2
+        x: 6316
+        y: 2197
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2ed917995238980800000000000000
+      internalID: -8537939127597931843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_102
+      rect:
+        serializedVersion: 2
+        x: 6357
+        y: 2180
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c9d31e41ec85f0800000000000000
+      internalID: -752979312220978660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_103
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2186
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a218f0d9531470800000000000000
+      internalID: 8364127687007185402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_104
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 226
+        width: 2102
+        height: 1971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cee778e165a43e0800000000000000
+      internalID: -2068746389701071751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_105
+      rect:
+        serializedVersion: 2
+        x: 5167
+        y: 2186
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357cfad2ea72275b0800000000000000
+      internalID: -5372187776455293101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_106
+      rect:
+        serializedVersion: 2
+        x: 6239
+        y: 2180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5baba84eb477d000800000000000000
+      internalID: 60645480604609373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_107
+      rect:
+        serializedVersion: 2
+        x: 6298
+        y: 2174
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7239e5c66d5745af0800000000000000
+      internalID: -408572102382283993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_108
+      rect:
+        serializedVersion: 2
+        x: 6403
+        y: 2162
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec4458ef28994b90800000000000000
+      internalID: -7257101993002119957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_109
+      rect:
+        serializedVersion: 2
+        x: 6327
+        y: 2168
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9000fd70c56fda90800000000000000
+      internalID: -7286993794641166182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_110
+      rect:
+        serializedVersion: 2
+        x: 6427
+        y: 2168
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4f3f7cbe855ea90800000000000000
+      internalID: -7285319052506696526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_111
+      rect:
+        serializedVersion: 2
+        x: 6103
+        y: 2074
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47392659f0cab74f0800000000000000
+      internalID: -829880523388972172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_112
+      rect:
+        serializedVersion: 2
+        x: 6398
+        y: 2139
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58077db5be5633180800000000000000
+      internalID: -9136847157472038779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_113
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2110
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca09005fe0321c50800000000000000
+      internalID: 6634419005468248781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_114
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 2121
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1539fabf5e63b4130800000000000000
+      internalID: 3551993092509766481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_115
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 2098
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ee69c226654cd0800000000000000
+      internalID: -2574539312377961939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_116
+      rect:
+        serializedVersion: 2
+        x: 6179
+        y: 2079
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429467c3ff392ec0800000000000000
+      internalID: -3591268911596400051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_117
+      rect:
+        serializedVersion: 2
+        x: 6251
+        y: 2080
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c03c5e03b376ac80800000000000000
+      internalID: -8311828849388408636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_118
+      rect:
+        serializedVersion: 2
+        x: 6087
+        y: 2051
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eaf2557935bda10800000000000000
+      internalID: 1935232374320115345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_119
+      rect:
+        serializedVersion: 2
+        x: 6368
+        y: 2069
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c2358abcb139460800000000000000
+      internalID: 7247166786885594234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_120
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 2057
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b49750eeb75cbb0800000000000000
+      internalID: -4916387155980760289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_121
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 2063
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d8d246637f2feb0800000000000000
+      internalID: -4687412449158263493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_122
+      rect:
+        serializedVersion: 2
+        x: 6081
+        y: 2057
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658d1cd86d305320800000000000000
+      internalID: 2544601310043145575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_123
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 2010
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85af257c01dcb96d0800000000000000
+      internalID: -2982564856255546792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_124
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 1980
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e25a9538e576420800000000000000
+      internalID: 2623169226204327539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_125
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2004
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5243fb2b05b49620800000000000000
+      internalID: 2780045929581068890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_126
+      rect:
+        serializedVersion: 2
+        x: 6070
+        y: 2004
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c37d281437d3ed30800000000000000
+      internalID: 4459644674770826182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_127
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 1998
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3348eb049fdebb0800000000000000
+      internalID: -4904990362667043906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_128
+      rect:
+        serializedVersion: 2
+        x: 3826
+        y: 2004
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a739846e1e3b10800000000000000
+      internalID: 1963039904727802852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_129
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 2004
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cdb4debe5e16470800000000000000
+      internalID: 8386236782601821328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_130
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1981
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c996896b4da1936c0800000000000000
+      internalID: -4163266879628482148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_131
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 1992
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49261a3aeabbfa020800000000000000
+      internalID: 2355307488882025108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_132
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 1986
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb0708a7a5693b0800000000000000
+      internalID: -5506114012226471153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_133
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 1981
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34585d9904055cd10800000000000000
+      internalID: 2145209035900945731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_134
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 1975
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1356134a5605930800000000000000
+      internalID: 4129912614176502215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_135
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1975
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a90a7012dbc7b50800000000000000
+      internalID: 6592351904123099746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_136
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 1969
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bca49d70e8f3f5b0800000000000000
+      internalID: -5335647490440647495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_137
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1951
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ce57a9bb46d830800000000000000
+      internalID: 4095544171889082730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_138
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1946
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd36fef4242fbdf0800000000000000
+      internalID: -162371320247075338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_139
+      rect:
+        serializedVersion: 2
+        x: 6901
+        y: 1805
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e435e2b3a5ab1a5d0800000000000000
+      internalID: -3052954175677770930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_140
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 1768
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b848eaa5567f57420800000000000000
+      internalID: 2627277972325696651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_141
+      rect:
+        serializedVersion: 2
+        x: 6896
+        y: 1793
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa53b0337c908ace0800000000000000
+      internalID: -1393853333511653974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_142
+      rect:
+        serializedVersion: 2
+        x: 6826
+        y: 1787
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05335a383f1760350800000000000000
+      internalID: 5982594445707916112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_143
+      rect:
+        serializedVersion: 2
+        x: 6837
+        y: 1740
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8d22729b061c10800000000000000
+      internalID: 2023817806158335656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_144
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 226
+        width: 1719
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62fb51c39c15c30800000000000000
+      internalID: 4346476375289308884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_145
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 1653
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef793a3ee9c406240800000000000000
+      internalID: 4782907049575159806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_146
+      rect:
+        serializedVersion: 2
+        x: 5665
+        y: 1635
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cbb4c7db6e0f640800000000000000
+      internalID: 5111839278574058610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_147
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 1629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1b200c225e158d0800000000000000
+      internalID: -2859252350990503498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_148
+      rect:
+        serializedVersion: 2
+        x: 7019
+        y: 1629
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80125a5f0e425ad70800000000000000
+      internalID: 9053683174510764296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_149
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 1611
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1e2e3e5cd9a3910800000000000000
+      internalID: 1817938872854831550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_150
+      rect:
+        serializedVersion: 2
+        x: 7118
+        y: 1594
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0166bdb5e4e5480800000000000000
+      internalID: -8908596856462372654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_151
+      rect:
+        serializedVersion: 2
+        x: 5677
+        y: 1559
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4f66df65b1eb490800000000000000
+      internalID: -7728709850088672035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_152
+      rect:
+        serializedVersion: 2
+        x: 5941
+        y: 226
+        width: 1507
+        height: 1352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0183c4f61c1bf20800000000000000
+      internalID: 3436740674424672421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_153
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6564f9d9de37740800000000000000
+      internalID: 5148720060252444332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_154
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 1529
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977e8ba72fa9fd080800000000000000
+      internalID: -9160432750816598151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_155
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 1400
+        width: 260
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a07b104cdaced0800000000000000
+      internalID: -2392858084097613824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_156
+      rect:
+        serializedVersion: 2
+        x: 5343
+        y: 1427
+        width: 281
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d90eaee24a0c1c0800000000000000
+      internalID: -4485404707444974319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_157
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 1500
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dd8e253fcbbf4e0800000000000000
+      internalID: -1946754660653540082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_158
+      rect:
+        serializedVersion: 2
+        x: 5654
+        y: 1506
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2220008b1d7179c0800000000000000
+      internalID: -3931223442652650966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_159
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 1481
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b481ec8c3d776c3c0800000000000000
+      internalID: -4339649439434139573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_160
+      rect:
+        serializedVersion: 2
+        x: 5642
+        y: 1488
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0321d05bc81b7b00800000000000000
+      internalID: 827282218065928974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_161
+      rect:
+        serializedVersion: 2
+        x: 5636
+        y: 1477
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15fc79cb7ce9560800000000000000
+      internalID: 7322509656965730808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_162
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 1465
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062a6e7e85d858690800000000000000
+      internalID: -7600513383130553760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_163
+      rect:
+        serializedVersion: 2
+        x: 5648
+        y: 1465
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fd966cdf6ba5cd0800000000000000
+      internalID: -2568539436389638374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_164
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 1453
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a2a2cfd993e68e0800000000000000
+      internalID: -1698356658768827782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_165
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 1453
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992317d0eaf225770800000000000000
+      internalID: 8597987063200035481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_166
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 1406
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572343c967b815610800000000000000
+      internalID: 1608219883491046005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_167
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1447
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b074dba3f51d810800000000000000
+      internalID: 1788315232931089155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_168
+      rect:
+        serializedVersion: 2
+        x: 5624
+        y: 1447
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caa0b0e7816e0970800000000000000
+      internalID: 8723016764481383112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_169
+      rect:
+        serializedVersion: 2
+        x: 5636
+        y: 1436
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4aa1f1170e72ed0800000000000000
+      internalID: -2438733896740068100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_170
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 1448
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9becbf2edd6e4810800000000000000
+      internalID: 1751458106144779164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_171
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 1434
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4886cb4ca80115f0800000000000000
+      internalID: -787838923714426804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_172
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1442
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05a2e00d47a79c50800000000000000
+      internalID: 6671985322141852941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_173
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 1430
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f0a05ed8711a350800000000000000
+      internalID: 6026123674598903559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_174
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 1430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14d10083ec57bcc0800000000000000
+      internalID: -3695382837059267558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_175
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1389
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07f53a7c1919c6a0800000000000000
+      internalID: -6428579382994536692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_176
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 1383
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498d99a2159b8d7c0800000000000000
+      internalID: -4046280506934175596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_177
+      rect:
+        serializedVersion: 2
+        x: 5683
+        y: 1395
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b69f997e8281f0800000000000000
+      internalID: -1044115510576893640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_178
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 1270
+        width: 277
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f195d66e9d3d78170800000000000000
+      internalID: 8180740180969085215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_179
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 1389
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55b4076a93d6a9e0800000000000000
+      internalID: -1610367156631587492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_180
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 1371
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a135d1fb289c3a230800000000000000
+      internalID: 3648981686489535258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_181
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 1354
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115dbfde54c25230800000000000000
+      internalID: 3626176561746366736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_182
+      rect:
+        serializedVersion: 2
+        x: 5642
+        y: 1301
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12b26f983772e90800000000000000
+      internalID: -7050539655247486529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_183
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 1318
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecf7d9ea66176780800000000000000
+      internalID: -8689952307542491930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_184
+      rect:
+        serializedVersion: 2
+        x: 5777
+        y: 1342
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83518b4d294815e60800000000000000
+      internalID: 7949280583454561592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_185
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 1257
+        width: 148
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55caf58713196c240800000000000000
+      internalID: 4811692893550914645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_186
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 1319
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0053db944a69f7b10800000000000000
+      internalID: 1981467993422247168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_187
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 1311
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5b94590ff82e810800000000000000
+      internalID: 1793153865106437583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_188
+      rect:
+        serializedVersion: 2
+        x: 5707
+        y: 1283
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232387bdbca1740e0800000000000000
+      internalID: -2285828823004466638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_189
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 1283
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4219e00caa8651c0800000000000000
+      internalID: -4515269105038060982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_190
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 1295
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b7d020f49135570800000000000000
+      internalID: 8454128752632101732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_191
+      rect:
+        serializedVersion: 2
+        x: 5677
+        y: 1289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a500b9f5284cdb060800000000000000
+      internalID: 6970943862468182106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_192
+      rect:
+        serializedVersion: 2
+        x: 5777
+        y: 1289
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80bbc2ccfcd5acc0800000000000000
+      internalID: -3700308540656996214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_193
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 1263
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dca416030fd01ab0800000000000000
+      internalID: -5039282778947670831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_194
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 1272
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddce7eb99479235b0800000000000000
+      internalID: -5390079461604987683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_195
+      rect:
+        serializedVersion: 2
+        x: 5747
+        y: 1260
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54e828d6633cb00800000000000000
+      internalID: 847580998845482433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_196
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 1266
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49cbc64d15511270800000000000000
+      internalID: 8219444379158038858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_197
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 1254
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1f133171fc97690800000000000000
+      internalID: -7603818797825134125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_198
+      rect:
+        serializedVersion: 2
+        x: 5853
+        y: 1260
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1bf6e999aca3a60800000000000000
+      internalID: 7654653277806506423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_199
+      rect:
+        serializedVersion: 2
+        x: 5747
+        y: 1254
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f40ed25f5c9340f0800000000000000
+      internalID: -1133890747941124872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_200
+      rect:
+        serializedVersion: 2
+        x: 5753
+        y: 1242
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4c8e6eccaeed4e0800000000000000
+      internalID: -1954867022463974194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_201
+      rect:
+        serializedVersion: 2
+        x: 5794
+        y: 1236
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fb5da285dbbc1a0800000000000000
+      internalID: -6788123826957467890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_202
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 1242
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e076cb146a34af1b0800000000000000
+      internalID: -5622106803472144626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_203
+      rect:
+        serializedVersion: 2
+        x: 5812
+        y: 1225
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a16e8e25e471060800000000000000
+      internalID: 6924089070107105815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_204
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 1230
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b3cc3825dff19c0800000000000000
+      internalID: -3954163416967660704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_205
+      rect:
+        serializedVersion: 2
+        x: 5841
+        y: 1225
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6990626fd482af0800000000000000
+      internalID: -421000845563685163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_206
+      rect:
+        serializedVersion: 2
+        x: 5876
+        y: 1219
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593a9e55c02cbf920800000000000000
+      internalID: 3025224932946191253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_207
+      rect:
+        serializedVersion: 2
+        x: 5865
+        y: 1219
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90133f2bf7722ce0800000000000000
+      internalID: -1431449810838024037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_208
+      rect:
+        serializedVersion: 2
+        x: 5781
+        y: 1178
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8516bef4f5d631f80800000000000000
+      internalID: -8137039845598207656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_209
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 1207
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb1060d821134e0800000000000000
+      internalID: -2003799962302693522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_210
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 1172
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6723f02d35705d6c0800000000000000
+      internalID: -4119378227572559242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_211
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 1201
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95bf89c772bd3dd0800000000000000
+      internalID: -2504649590195636837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_212
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 1178
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b37c169c7f54e150800000000000000
+      internalID: 5900946400461222833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_213
+      rect:
+        serializedVersion: 2
+        x: 5818
+        y: 1166
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe75d721c1269b8a0800000000000000
+      internalID: -6288887531937376273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_214
+      rect:
+        serializedVersion: 2
+        x: 5871
+        y: 1154
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ccf4b4e8b224490800000000000000
+      internalID: -7763594917484442544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_215
+      rect:
+        serializedVersion: 2
+        x: 5841
+        y: 1148
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f750ba6fd04045ac0800000000000000
+      internalID: -3867461721984924289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_216
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1154
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaaa4cfd8c25cc30800000000000000
+      internalID: 4378955201022438092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_217
+      rect:
+        serializedVersion: 2
+        x: 5911
+        y: 1154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622ae84f9f837e130800000000000000
+      internalID: 3595905473679630886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_218
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 1107
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403bd5a419e70f680800000000000000
+      internalID: -8723333315733638396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_219
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 1137
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa2ac37cac08950800000000000000
+      internalID: 6449377623459146319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_220
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 1131
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067a88278364feac0800000000000000
+      internalID: -3823760350360590496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_221
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 1119
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ca8782e9b2e560800000000000000
+      internalID: 7341634725155096604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_222
+      rect:
+        serializedVersion: 2
+        x: 5882
+        y: 1084
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f5761b007ba9210800000000000000
+      internalID: 1340585052700368648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_223
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 1072
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419e1b55a51a2c80800000000000000
+      internalID: -8346835159435275966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASHDEMON_224
+      rect:
+        serializedVersion: 2
+        x: 5929
+        y: 1061
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ef52a3fb5a57b10800000000000000
+      internalID: 1978669852032106048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ASHDEMON_216: 4378955201022438092
+      ASHDEMON_98: -6409396167415214698
+      ASHDEMON_91: -6497588897890364059
+      ASHDEMON_83: 3807070558631567076
+      ASHDEMON_16: -601288644505802956
+      ASHDEMON_153: 5148720060252444332
+      ASHDEMON_14: 7231418089880609257
+      ASHDEMON_213: -6288887531937376273
+      ASHDEMON_29: -3600561127549632336
+      ASHDEMON_224: 1978669852032106048
+      ASHDEMON_157: -1946754660653540082
+      ASHDEMON_81: -1579595111874816896
+      ASHDEMON_105: -5372187776455293101
+      ASHDEMON_3: -8742144388627957051
+      ASHDEMON_101: -8537939127597931843
+      ASHDEMON_13: -8304147785865132945
+      ASHDEMON_207: -1431449810838024037
+      ASHDEMON_19: 4437968370286595050
+      ASHDEMON_55: -5216578521228567528
+      ASHDEMON_156: -4485404707444974319
+      ASHDEMON_147: -2859252350990503498
+      ASHDEMON_58: -4374596351013469384
+      ASHDEMON_94: -1985049283705135856
+      ASHDEMON_32: 5967072885394842058
+      ASHDEMON_10: 8599327494428876788
+      ASHDEMON_24: 363598697253555688
+      ASHDEMON_7: 3111615926767508165
+      ASHDEMON_137: 4095544171889082730
+      ASHDEMON_145: 4782907049575159806
+      ASHDEMON_164: -1698356658768827782
+      ASHDEMON_161: 7322509656965730808
+      ASHDEMON_144: 4346476375289308884
+      ASHDEMON_204: -3954163416967660704
+      ASHDEMON_173: 6026123674598903559
+      ASHDEMON_169: -2438733896740068100
+      ASHDEMON_107: -408572102382283993
+      ASHDEMON_63: 2841814184133872660
+      ASHDEMON_27: 4512813698915343528
+      ASHDEMON_218: -8723333315733638396
+      ASHDEMON_109: -7286993794641166182
+      ASHDEMON_47: -8847946670637766837
+      ASHDEMON_12: 6054494693625794686
+      ASHDEMON_179: -1610367156631587492
+      ASHDEMON_61: -2891562505823740340
+      ASHDEMON_159: -4339649439434139573
+      ASHDEMON_52: -4092846893170637634
+      ASHDEMON_114: 3551993092509766481
+      ASHDEMON_140: 2627277972325696651
+      ASHDEMON_11: -8608193415799000991
+      ASHDEMON_148: 9053683174510764296
+      ASHDEMON_206: 3025224932946191253
+      ASHDEMON_110: -7285319052506696526
+      ASHDEMON_21: -7948150310613588238
+      ASHDEMON_71: -8497784978292285775
+      ASHDEMON_184: 7949280583454561592
+      ASHDEMON_99: 4336611980066533429
+      ASHDEMON_149: 1817938872854831550
+      ASHDEMON_117: -8311828849388408636
+      ASHDEMON_193: -5039282778947670831
+      ASHDEMON_128: 1963039904727802852
+      ASHDEMON_143: 2023817806158335656
+      ASHDEMON_62: -4112892200334599074
+      ASHDEMON_79: -2653296915632136379
+      ASHDEMON_4: 654468399500968443
+      ASHDEMON_80: -3316402575396193849
+      ASHDEMON_165: 8597987063200035481
+      ASHDEMON_214: -7763594917484442544
+      ASHDEMON_65: 8589534540545392244
+      ASHDEMON_40: -2141575613502163058
+      ASHDEMON_116: -3591268911596400051
+      ASHDEMON_131: 2355307488882025108
+      ASHDEMON_211: -2504649590195636837
+      ASHDEMON_96: 3768318154641872451
+      ASHDEMON_215: -3867461721984924289
+      ASHDEMON_185: 4811692893550914645
+      ASHDEMON_9: 3510654060314325545
+      ASHDEMON_92: -5640031615989222051
+      ASHDEMON_6: 5377087778575829854
+      ASHDEMON_64: -3002599362985772497
+      ASHDEMON_25: -8633983747524603147
+      ASHDEMON_104: -2068746389701071751
+      ASHDEMON_132: -5506114012226471153
+      ASHDEMON_124: 2623169226204327539
+      ASHDEMON_187: 1793153865106437583
+      ASHDEMON_176: -4046280506934175596
+      ASHDEMON_208: -8137039845598207656
+      ASHDEMON_182: -7050539655247486529
+      ASHDEMON_77: -9058331546251922153
+      ASHDEMON_158: -3931223442652650966
+      ASHDEMON_2: -6346597028515853470
+      ASHDEMON_209: -2003799962302693522
+      ASHDEMON_122: 2544601310043145575
+      ASHDEMON_168: 8723016764481383112
+      ASHDEMON_201: -6788123826957467890
+      ASHDEMON_220: -3823760350360590496
+      ASHDEMON_139: -3052954175677770930
+      ASHDEMON_175: -6428579382994536692
+      ASHDEMON_189: -4515269105038060982
+      ASHDEMON_18: 735346112745828
+      ASHDEMON_43: 8863470894775261296
+      ASHDEMON_74: 3016283813569289738
+      ASHDEMON_150: -8908596856462372654
+      ASHDEMON_37: -3281513885792141220
+      ASHDEMON_42: 1421915167332415676
+      ASHDEMON_203: 6924089070107105815
+      ASHDEMON_190: 8454128752632101732
+      ASHDEMON_15: -2309837465222950963
+      ASHDEMON_60: -5901059352711502710
+      ASHDEMON_20: 8263373495036239610
+      ASHDEMON_69: 5241955194885277192
+      ASHDEMON_66: 2803626870694519590
+      ASHDEMON_192: -3700308540656996214
+      ASHDEMON_112: -9136847157472038779
+      ASHDEMON_75: 5792874355359028515
+      ASHDEMON_48: -7748926083500685448
+      ASHDEMON_129: 8386236782601821328
+      ASHDEMON_53: 6249647198403175043
+      ASHDEMON_41: 1588200519754327625
+      ASHDEMON_82: 2452579070209199563
+      ASHDEMON_123: -2982564856255546792
+      ASHDEMON_210: -4119378227572559242
+      ASHDEMON_188: -2285828823004466638
+      ASHDEMON_85: -8440792537169388050
+      ASHDEMON_100: -6527260077829898555
+      ASHDEMON_155: -2392858084097613824
+      ASHDEMON_212: 5900946400461222833
+      ASHDEMON_126: 4459644674770826182
+      ASHDEMON_45: -1514649967216872020
+      ASHDEMON_194: -5390079461604987683
+      ASHDEMON_76: 7176817208011389765
+      ASHDEMON_219: 6449377623459146319
+      ASHDEMON_183: -8689952307542491930
+      ASHDEMON_152: 3436740674424672421
+      ASHDEMON_56: 4424621082860018986
+      ASHDEMON_125: 2780045929581068890
+      ASHDEMON_163: -2568539436389638374
+      ASHDEMON_88: 710806583498111223
+      ASHDEMON_119: 7247166786885594234
+      ASHDEMON_142: 5982594445707916112
+      ASHDEMON_22: -157499060849066603
+      ASHDEMON_73: -7952456851157283534
+      ASHDEMON_130: -4163266879628482148
+      ASHDEMON_138: -162371320247075338
+      ASHDEMON_171: -787838923714426804
+      ASHDEMON_39: 8378758721958931320
+      ASHDEMON_35: 1557943806211280932
+      ASHDEMON_102: -752979312220978660
+      ASHDEMON_108: -7257101993002119957
+      ASHDEMON_84: -8070866035266253681
+      ASHDEMON_221: 7341634725155096604
+      ASHDEMON_31: -7511285865535937149
+      ASHDEMON_198: 7654653277806506423
+      ASHDEMON_38: -7204995283823366698
+      ASHDEMON_106: 60645480604609373
+      ASHDEMON_160: 827282218065928974
+      ASHDEMON_30: -892263577956726118
+      ASHDEMON_113: 6634419005468248781
+      ASHDEMON_36: 8942803549826727815
+      ASHDEMON_23: -1612036140889652692
+      ASHDEMON_136: -5335647490440647495
+      ASHDEMON_115: -2574539312377961939
+      ASHDEMON_177: -1044115510576893640
+      ASHDEMON_70: -197208426586643615
+      ASHDEMON_86: 490034729245135841
+      ASHDEMON_151: -7728709850088672035
+      ASHDEMON_97: 1874565266268068570
+      ASHDEMON_166: 1608219883491046005
+      ASHDEMON_28: 8408336405815126954
+      ASHDEMON_26: -6115533303929215973
+      ASHDEMON_191: 6970943862468182106
+      ASHDEMON_0: -3158836230250725014
+      ASHDEMON_34: -8016579435102489975
+      ASHDEMON_111: -829880523388972172
+      ASHDEMON_121: -4687412449158263493
+      ASHDEMON_178: 8180740180969085215
+      ASHDEMON_217: 3595905473679630886
+      ASHDEMON_186: 1981467993422247168
+      ASHDEMON_162: -7600513383130553760
+      ASHDEMON_49: 4166414602649833985
+      ASHDEMON_50: -2419721177988251227
+      ASHDEMON_90: -1551295983655897082
+      ASHDEMON_223: -8346835159435275966
+      ASHDEMON_72: 8428777634151150910
+      ASHDEMON_33: -37321114668342374
+      ASHDEMON_134: 4129912614176502215
+      ASHDEMON_195: 847580998845482433
+      ASHDEMON_180: 3648981686489535258
+      ASHDEMON_51: -3797204632051191893
+      ASHDEMON_59: -8372316979934732420
+      ASHDEMON_170: 1751458106144779164
+      ASHDEMON_118: 1935232374320115345
+      ASHDEMON_222: 1340585052700368648
+      ASHDEMON_120: -4916387155980760289
+      ASHDEMON_87: 8247705706334979605
+      ASHDEMON_181: 3626176561746366736
+      ASHDEMON_202: -5622106803472144626
+      ASHDEMON_93: -2879505390973303253
+      ASHDEMON_154: -9160432750816598151
+      ASHDEMON_57: 8831287510953818269
+      ASHDEMON_68: 7680212613466892143
+      ASHDEMON_67: 2804579400823164625
+      ASHDEMON_174: -3695382837059267558
+      ASHDEMON_89: 5931447155520563579
+      ASHDEMON_17: -2267104103249100026
+      ASHDEMON_172: 6671985322141852941
+      ASHDEMON_95: -4215732601126015827
+      ASHDEMON_127: -4904990362667043906
+      ASHDEMON_199: -1133890747941124872
+      ASHDEMON_1: -4535685402998494737
+      ASHDEMON_44: 776296186526543674
+      ASHDEMON_141: -1393853333511653974
+      ASHDEMON_8: -5710409468290622066
+      ASHDEMON_103: 8364127687007185402
+      ASHDEMON_54: -1908448298212651881
+      ASHDEMON_197: -7603818797825134125
+      ASHDEMON_133: 2145209035900945731
+      ASHDEMON_78: 2887392081513741845
+      ASHDEMON_200: -1954867022463974194
+      ASHDEMON_5: 5914429220065459723
+      ASHDEMON_146: 5111839278574058610
+      ASHDEMON_167: 1788315232931089155
+      ASHDEMON_196: 8219444379158038858
+      ASHDEMON_205: -421000845563685163
+      ASHDEMON_135: 6592351904123099746
+      ASHDEMON_46: -5509885056723531704
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

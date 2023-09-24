@@ -1,0 +1,1436 @@
+fileFormatVersion: 2
+guid: 02b9ab0c183e4ea45b70461f3342d07c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -74950150839134111
+    second: ProjectileBolt_0
+  - first:
+      213: 2326460554207080433
+    second: ProjectileBolt_1
+  - first:
+      213: -1620905670568952595
+    second: ProjectileBolt_2
+  - first:
+      213: -8327981353739488760
+    second: ProjectileBolt_3
+  - first:
+      213: 1708987778787713762
+    second: ProjectileBolt_4
+  - first:
+      213: -3574558358024114194
+    second: ProjectileBolt_5
+  - first:
+      213: -8508845031754332253
+    second: ProjectileBolt_6
+  - first:
+      213: 3598474421564667528
+    second: ProjectileBolt_7
+  - first:
+      213: 1707407100075598715
+    second: ProjectileBolt_8
+  - first:
+      213: 895672137974679017
+    second: ProjectileBolt_9
+  - first:
+      213: 5269051277100873074
+    second: ProjectileBolt_10
+  - first:
+      213: 6588924952167475546
+    second: ProjectileBolt_11
+  - first:
+      213: -7456551701163034984
+    second: ProjectileBolt_12
+  - first:
+      213: -2894950088696543030
+    second: ProjectileBolt_13
+  - first:
+      213: 6378450897177149999
+    second: ProjectileBolt_14
+  - first:
+      213: -940513211911248325
+    second: ProjectileBolt_15
+  - first:
+      213: 7954012607869012671
+    second: ProjectileBolt_16
+  - first:
+      213: 8733015229070661069
+    second: ProjectileBolt_17
+  - first:
+      213: -7728975216609633392
+    second: ProjectileBolt_18
+  - first:
+      213: -8425957796338008621
+    second: ProjectileBolt_19
+  - first:
+      213: -1525713196724629960
+    second: ProjectileBolt_20
+  - first:
+      213: -5116434091632407891
+    second: ProjectileBolt_21
+  - first:
+      213: 4461410130204415554
+    second: ProjectileBolt_22
+  - first:
+      213: -6696608018279046711
+    second: ProjectileBolt_23
+  - first:
+      213: -1258305883593002709
+    second: ProjectileBolt_24
+  - first:
+      213: 883905889425793705
+    second: ProjectileBolt_25
+  - first:
+      213: 1685520418412561084
+    second: ProjectileBolt_26
+  - first:
+      213: -7885235249315736887
+    second: ProjectileBolt_27
+  - first:
+      213: -5174997441273396424
+    second: ProjectileBolt_28
+  - first:
+      213: 8558111893708091706
+    second: ProjectileBolt_30
+  - first:
+      213: -3230855901067473689
+    second: ProjectileBolt_31
+  - first:
+      213: 3234796980117784343
+    second: ProjectileBolt_32
+  - first:
+      213: 44321058732726667
+    second: ProjectileBolt_33
+  - first:
+      213: -1797070955461973251
+    second: ProjectileBolt_34
+  - first:
+      213: -392756097916547900
+    second: ProjectileBolt_35
+  - first:
+      213: -7277878816697987010
+    second: ProjectileBolt_36
+  - first:
+      213: -2397357052829464265
+    second: ProjectileBolt_37
+  - first:
+      213: 5905940768523679322
+    second: ProjectileBolt_38
+  - first:
+      213: 4700412213044029973
+    second: ProjectileBolt_39
+  - first:
+      213: -2377017638550362830
+    second: ProjectileBolt_40
+  - first:
+      213: -8781711350036646129
+    second: ProjectileBolt_41
+  - first:
+      213: -340332513853065740
+    second: ProjectileBolt_42
+  - first:
+      213: 1393594935177980483
+    second: ProjectileBolt_43
+  - first:
+      213: -604789021277720116
+    second: ProjectileBolt_44
+  - first:
+      213: 928798802863300538
+    second: ProjectileBolt_45
+  - first:
+      213: 6507366990603695805
+    second: ProjectileBolt_46
+  - first:
+      213: 93322698795042592
+    second: ProjectileBolt_47
+  - first:
+      213: 4638879356004515452
+    second: ProjectileBolt_48
+  - first:
+      213: -7368548619893028348
+    second: ProjectileBolt_49
+  - first:
+      213: 2777447862561300718
+    second: ProjectileBolt_50
+  - first:
+      213: -4361342156850036843
+    second: ProjectileBolt_51
+  - first:
+      213: -1908588129480132294
+    second: ProjectileBolt_52
+  - first:
+      213: -1057530960597101483
+    second: ProjectileBolt_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProjectileBolt_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 940
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1681f532c39b5fef0800000000000000
+      internalID: -74950150839134111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 667
+        width: 116
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa8754c8f394020800000000000000
+      internalID: 2326460554207080433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 986
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec325b61e26189e0800000000000000
+      internalID: -1620905670568952595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 758
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802f74215111d6c80800000000000000
+      internalID: -8327981353739488760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_4
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 867
+        width: 55
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e22028845b87b710800000000000000
+      internalID: 1708987778787713762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 847
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa119bc1e946ec0800000000000000
+      internalID: -3574558358024114194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 969
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a78f6186828ae980800000000000000
+      internalID: -8508845031754332253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 975
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f0bebb6950f130800000000000000
+      internalID: 3598474421564667528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 880
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b736cf616bde1b710800000000000000
+      internalID: 1707407100075598715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 953
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5023360111e6c00800000000000000
+      internalID: 895672137974679017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 944
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2757aea483e6f1940800000000000000
+      internalID: 5269051277100873074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 823
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5966a99550907b50800000000000000
+      internalID: 6588924952167475546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 882
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896b7dafbb1058890800000000000000
+      internalID: -7456551701163034984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 852
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c1c08b3213d7d0800000000000000
+      internalID: -2894950088696543030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 847
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f220487eb4fc48850800000000000000
+      internalID: 6378450897177149999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 379
+        width: 100
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e7718730a2f2f0800000000000000
+      internalID: -940513211911248325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 666
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbac20f1354526e60800000000000000
+      internalID: 7954012607869012671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_17
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 730
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc555d2d417e13970800000000000000
+      internalID: 8733015229070661069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 657
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b5f288df92db490800000000000000
+      internalID: -7728975216609633392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_19
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 683
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf6d0e60cf01b80800000000000000
+      internalID: -8425957796338008621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 661
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e4a106ee393dae0800000000000000
+      internalID: -1525713196724629960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 536
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa4d8b3d46cef8b0800000000000000
+      internalID: -5116434091632407891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 521
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d92830ec1aed30800000000000000
+      internalID: 4461410130204415554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_23
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 480
+        width: 107
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e17ecc7ed013a0800000000000000
+      internalID: -6696608018279046711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_24
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 577
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21b7a53779998ee0800000000000000
+      internalID: -1258305883593002709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_25
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 485
+        width: 122
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a91a29b3444c00800000000000000
+      internalID: 883905889425793705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_26
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 458
+        width: 176
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb20629e3eb246710800000000000000
+      internalID: 1685520418412561084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_27
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 492
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2952a8154029290800000000000000
+      internalID: -7885235249315736887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_28
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 503
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8330857de37be28b0800000000000000
+      internalID: -5174997441273396424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 460
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31348cac6584c670800000000000000
+      internalID: 8558111893708091706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_31
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 460
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec06600da1b923d0800000000000000
+      internalID: -3230855901067473689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7174d68f6be44ec20800000000000000
+      internalID: 3234796980117784343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 219
+        width: 173
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8955d1a4c57d9000800000000000000
+      internalID: 44321058732726667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_34
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 312
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa648fbc758f07e0800000000000000
+      internalID: -1797070955461973251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_35
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 312
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc05ce866ac8af0800000000000000
+      internalID: -392756097916547900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_36
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 326
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30506ca6c7cffa90800000000000000
+      internalID: -7277878816697987010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_37
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 310
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73982525670eabed0800000000000000
+      internalID: -2397357052829464265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_38
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 312
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f95486dd16f150800000000000000
+      internalID: 5905940768523679322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_39
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 326
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa56001083b3140800000000000000
+      internalID: 4700412213044029973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_40
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 263
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2352e5d3d03230fd0800000000000000
+      internalID: -2377017638550362830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_41
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 312
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07bc0dfd08112680800000000000000
+      internalID: -8781711350036646129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_42
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 309
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5b54eb165e64bf0800000000000000
+      internalID: -340332513853065740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_43
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 311
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2110c53b075310800000000000000
+      internalID: 1393594935177980483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 311
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc17fa6e69b5b97f0800000000000000
+      internalID: -604789021277720116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_45
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 312
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf99781791c3ec00800000000000000
+      internalID: 928798802863300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_46
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 311
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6390aeccfce4a50800000000000000
+      internalID: 6507366990603695805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_47
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 312
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027c827008c8b4100800000000000000
+      internalID: 93322698795042592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_48
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 312
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eba8a423c906040800000000000000
+      internalID: 4638879356004515452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_49
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 284
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac4190218adb990800000000000000
+      internalID: -7368548619893028348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_50
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 258
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0622e8d1a7b8620800000000000000
+      internalID: 2777447862561300718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_51
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 235
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f740d6a666973c0800000000000000
+      internalID: -4361342156850036843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_52
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 214
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a393fc755355385e0800000000000000
+      internalID: -1908588129480132294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProjectileBolt_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 524
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d1a2c135e251f0800000000000000
+      internalID: -1057530960597101483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ProjectileBolt_46: 6507366990603695805
+      ProjectileBolt_42: -340332513853065740
+      ProjectileBolt_10: 5269051277100873074
+      ProjectileBolt_0: -74950150839134111
+      ProjectileBolt_19: -8425957796338008621
+      ProjectileBolt_11: 6588924952167475546
+      ProjectileBolt_13: -2894950088696543030
+      ProjectileBolt_34: -1797070955461973251
+      ProjectileBolt_21: -5116434091632407891
+      ProjectileBolt_28: -5174997441273396424
+      ProjectileBolt_50: 2777447862561300718
+      ProjectileBolt_47: 93322698795042592
+      ProjectileBolt_37: -2397357052829464265
+      ProjectileBolt_20: -1525713196724629960
+      ProjectileBolt_6: -8508845031754332253
+      ProjectileBolt_48: 4638879356004515452
+      ProjectileBolt_32: 3234796980117784343
+      ProjectileBolt_16: 7954012607869012671
+      ProjectileBolt_23: -6696608018279046711
+      ProjectileBolt_40: -2377017638550362830
+      ProjectileBolt_41: -8781711350036646129
+      ProjectileBolt_2: -1620905670568952595
+      ProjectileBolt_8: 1707407100075598715
+      ProjectileBolt_15: -940513211911248325
+      ProjectileBolt_53: -1057530960597101483
+      ProjectileBolt_49: -7368548619893028348
+      ProjectileBolt_22: 4461410130204415554
+      ProjectileBolt_24: -1258305883593002709
+      ProjectileBolt_45: 928798802863300538
+      ProjectileBolt_33: 44321058732726667
+      ProjectileBolt_39: 4700412213044029973
+      ProjectileBolt_3: -8327981353739488760
+      ProjectileBolt_35: -392756097916547900
+      ProjectileBolt_17: 8733015229070661069
+      ProjectileBolt_36: -7277878816697987010
+      ProjectileBolt_38: 5905940768523679322
+      ProjectileBolt_5: -3574558358024114194
+      ProjectileBolt_9: 895672137974679017
+      ProjectileBolt_18: -7728975216609633392
+      ProjectileBolt_44: -604789021277720116
+      ProjectileBolt_26: 1685520418412561084
+      ProjectileBolt_1: 2326460554207080433
+      ProjectileBolt_4: 1708987778787713762
+      ProjectileBolt_7: 3598474421564667528
+      ProjectileBolt_12: -7456551701163034984
+      ProjectileBolt_25: 883905889425793705
+      ProjectileBolt_14: 6378450897177149999
+      ProjectileBolt_51: -4361342156850036843
+      ProjectileBolt_43: 1393594935177980483
+      ProjectileBolt_27: -7885235249315736887
+      ProjectileBolt_31: -3230855901067473689
+      ProjectileBolt_30: 8558111893708091706
+      ProjectileBolt_52: -1908588129480132294
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
